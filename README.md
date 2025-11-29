@@ -1,8 +1,8 @@
 <div align = "center">
 
-#  Thought Keeper
+# Thought Keeper
 
-</div>  
+</div>
 
 ### Seamlessly Organize Your Thoughts
 
@@ -18,22 +18,21 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 
 ## ✨ Key Features
 
-| 🚀 Core Functionality | 🛡️ Reliability | 🎨 User Experience |
-|----------------------|-----------------|-------------------|
-| ✍️ Instant note creation | 🔒 Local offline storage | 🎯 Minimalist design |
-| 📂 Organized note viewing | 💾 Secure device storage | ⚡ Fast performance |
-| 🗑️ Easy note management | 📱 Cross-platform | 🎭 Intuitive interface |
-
+| 🚀 Core Functionality     | 🛡️ Reliability           | 🎨 User Experience     |
+| ------------------------- | ------------------------ | ---------------------- |
+| ✍️ Instant note creation  | 🔒 Local offline storage | 🎯 Minimalist design   |
+| 📂 Organized note viewing | 💾 Secure device storage | ⚡ Fast performance    |
+| 🗑️ Easy note management   | 📱 Cross-platform        | 🎭 Intuitive interface |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|-----------|---------|
-| **Flutter** | UI & mobile framework |
-| **Dart** | Application logic |
-| **SQFlite** | Local database storage |
+| Technology                   | Purpose                                  |
+| ---------------------------- | ---------------------------------------- |
+| **Flutter**                  | UI & mobile framework                    |
+| **Dart**                     | Application logic                        |
+| **SQFlite**                  | Local database storage                   |
 | **Clean Architecture (MVC)** | Scalable and maintainable code structure |
 
 <div>
@@ -50,11 +49,10 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 ## 📁 Project Structure
 
 - lib/
-- ├── controllers/  ⚡ App logic & state
-- ├── models/       📝 Data structures
-- ├── views/        🎨 UI screens
-- └── services/     💾 Local DB helpers
-
+- ├── controllers/ ⚡ App logic & state
+- ├── models/ 📝 Data structures
+- ├── views/ 🎨 UI screens
+- └── services/ 💾 Local DB helpers
 
 This structure follows MVC, separating UI, logic, and data for cleaner scalability.
 
@@ -63,6 +61,7 @@ This structure follows MVC, separating UI, logic, and data for cleaner scalabili
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 Ensure the following are installed:
 
 - Flutter SDK (latest stable version)
@@ -71,21 +70,28 @@ Ensure the following are installed:
 - Git for version control
 
 ### Installation
+
 - Clone the repository
+
 ```bash
 git clone https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper
 cd Thought-Keeper
 ```
+
 - Install dependencies
+
 ```bash
 flutter pub get
 ```
+
 - Run the application
+
 ```bash
 flutter run
 ```
 
 ### 🧩 Upcoming Enhancements
+
 - 🔍 Search notes
 - 🌗 Dark mode
 - ☁️ Cloud backup support
@@ -93,11 +99,12 @@ flutter run
 - 🖼️ Add images to notes
 
 ### 🤝 Contribution
+
 - Contributions are welcome!
 
 ## 🤝 Contribution
 
-Contributions are welcome!  
+Contributions are welcome!
 
 You can support the project by:
 
@@ -106,4 +113,12 @@ You can support the project by:
 - [Suggest improvements](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/issues/new/choose) – Share ideas or enhancements to make the app better.
 
 ### 📄 License
+
 - This project is licensed under the MIT License.
+
+
+## 🙏 Support
+
+If you find this project helpful, consider giving it a star! You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/musaab-al-rabie/) for any questions or feedback.
+
+***
