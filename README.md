@@ -87,11 +87,9 @@ flutter run
 ### 🤝 Contribution
 - Contributions are welcome!
 
-Open issues
-
-Submit pull requests
-
-Suggest improvements
+- [Open issues](#open-issues)  
+- [Submit pull requests](#submit-pull-requests)  
+- [Suggest improvements](#suggest-improvements)
 
 ### 📄 License
 - This project is licensed under the MIT License.
