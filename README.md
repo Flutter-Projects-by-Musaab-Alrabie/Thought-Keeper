@@ -18,15 +18,12 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 
 ## ✨ Key Features
 
-<div align="center">
-
 | 🚀 Core Functionality | 🛡️ Reliability | 🎨 User Experience |
 |----------------------|-----------------|-------------------|
 | ✍️ Instant note creation | 🔒 Local offline storage | 🎯 Minimalist design |
 | 📂 Organized note viewing | 💾 Secure device storage | ⚡ Fast performance |
 | 🗑️ Easy note management | 📱 Cross-platform | 🎭 Intuitive interface |
 
-</div>
 
 ---
 
