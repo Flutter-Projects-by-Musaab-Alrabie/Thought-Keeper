@@ -42,17 +42,18 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 lib/
 │
 ├── controllers/
-│ └── note_controller.dart
+│   └── note_controller.dart
 │
 ├── models/
-│ └── note_model.dart
+│   └── note_model.dart
 │
 ├── views/
-│ ├── home_view.dart
-│ └── add_note_view.dart
+│   ├── home_view.dart
+│   └── add_note_view.dart
 │
 └── database/
-└── note_db_helper.dart
+    └── note_db_helper.dart
+
 
 This structure follows MVC, separating UI, logic, and data for cleaner scalability.
 
@@ -74,19 +75,17 @@ git clone https://github.com/your-username/note-nexus.git
 cd note-nexus
 flutter pub get
 flutter run
-🧩 Upcoming Enhancements
-🔍 Search notes
+```
 
-🌗 Dark mode
+### 🧩 Upcoming Enhancements
+- 🔍 Search notes
+- 🌗 Dark mode
+- ☁️ Cloud backup support
+- 📌 Pin important notes
+- 🖼️ Add images to notes
 
-☁️ Cloud backup support
-
-📌 Pin important notes
-
-🖼️ Add images to notes
-
-🤝 Contribution
-Contributions are welcome!
+### 🤝 Contribution
+- Contributions are welcome!
 
 Open issues
 
@@ -94,8 +93,8 @@ Submit pull requests
 
 Suggest improvements
 
-📄 License
-This project is licensed under the MIT License.
+### 📄 License
+- This project is licensed under the MIT License.
 
-💙 Crafted with Flutter
-Organize your ideas. Free your mind.
+### 💙 Crafted with Flutter
+- Organize your ideas. Free your mind.
