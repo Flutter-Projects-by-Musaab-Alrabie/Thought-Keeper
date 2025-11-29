@@ -39,20 +39,11 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 
 ## 📁 Project Structure
 
-lib/
-│
-├── controllers/
-│   └── note_controller.dart
-│
-├── models/
-│   └── note_model.dart
-│
-├── views/
-│   ├── home_view.dart
-│   └── add_note_view.dart
-│
-└── database/
-    └── note_db_helper.dart
+- lib/
+- ├── controllers/  ⚡ App logic & state
+- ├── models/       📝 Data structures
+- ├── views/        🎨 UI screens
+- └── database/     💾 Local DB helpers
 
 
 This structure follows MVC, separating UI, logic, and data for cleaner scalability.
