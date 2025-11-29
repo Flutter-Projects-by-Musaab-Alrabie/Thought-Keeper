@@ -93,9 +93,9 @@ Contributions are welcome!
 
 You can support the project by:
 
-- [Open issues](#open-issues)  
-- [Submit pull requests](#submit-pull-requests)  
-- [Suggest improvements](#suggest-improvements)
+- [Open issues](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/issues/new) – Report bugs, request new features, or provide feedback.
+- [Submit pull requests](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/compare) – Fork the repo, make changes, and submit a PR for review.
+- [Suggest improvements](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/issues/new/choose) – Share ideas or enhancements to make the app better.
 
 ### Open issues
 Report bugs, request new features, or provide feedback.
