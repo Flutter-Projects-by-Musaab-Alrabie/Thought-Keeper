@@ -1,4 +1,9 @@
-# 📝 Thought Keeper  
+<div align = "center">
+
+#  Thought Keeper
+
+</div>  
+
 ### Seamlessly Organize Your Thoughts
 
 Thought Keeper is a lightweight and intuitive Flutter application designed for efficient personal note management. Whether you're jotting down quick thoughts or organizing important ideas, Thought Keeper ensures your notes are always accessible — even without an internet connection.
@@ -105,9 +110,3 @@ You can support the project by:
 
 ### 📄 License
 - This project is licensed under the MIT License.
-
-<div align="center">
-💙 Made with Flutter & Dart
-Thought Keeper - Your thoughts, beautifully organized.
-
-</div> ```
