@@ -97,18 +97,5 @@ You can support the project by:
 - [Submit pull requests](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/compare) – Fork the repo, make changes, and submit a PR for review.
 - [Suggest improvements](https://github.com/Flutter-Projects-by-Musaab-Alrabie/Thought-Keeper/issues/new/choose) – Share ideas or enhancements to make the app better.
 
-### Open issues
-Report bugs, request new features, or provide feedback.
-
-### Submit pull requests
-Fork the repo, make changes, and submit a PR for review.
-
-### Suggest improvements
-Share ideas or enhancements to make the app better.
-
-
 ### 📄 License
 - This project is licensed under the MIT License.
-
-### 💙 Crafted with Flutter
-- Organize your ideas. Free your mind.
