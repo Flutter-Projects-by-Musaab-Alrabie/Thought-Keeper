@@ -40,10 +40,10 @@ Thought Keeper is a lightweight and intuitive Flutter application designed for e
 ## 📁 Project Structure
 
 - lib/
-- ├── controllers/  ⚡ App logic & state
-- ├── models/       📝 Data structures
-- ├── views/        🎨 UI screens
-- └── database/     💾 Local DB helpers
+ ├── controllers/  ⚡ App logic & state
+ ├── models/       📝 Data structures
+ ├── views/        🎨 UI screens
+ └── database/     💾 Local DB helpers
 
 
 This structure follows MVC, separating UI, logic, and data for cleaner scalability.
