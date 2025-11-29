@@ -6,13 +6,13 @@ A lightweight and efficient Flutter note-taking application that allows users to
 
 ## ✨ Features
 
-| Feature | Description | Emoji |
-|---------|-------------|--------|
-| **Create Notes** | Easily write and save your thoughts | ✏️ |
-| **View Notes** | Quickly access all your saved notes | 👀 |
-| **Delete Notes** | Remove notes you no longer need | 🗑️ |
-| **Offline Storage** | Works completely offline | 📱 |
-| **Clean Interface** | Simple and intuitive user experience | 🎨 |
+| Feature | Description |
+|---------|-------------|
+| **Create Notes** | Easily write and save your thoughts |
+| **View Notes** | Quickly access all your saved notes |
+| **Delete Notes** | Remove notes you no longer need |
+| **Offline Storage** | Works completely offline |
+| **Clean Interface** | Simple and intuitive user experience |
 
 ## 🛠️ Tech Stack
 
@@ -22,3 +22,15 @@ A lightweight and efficient Flutter note-taking application that allows users to
 ![MVC Architecture](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge)
 
 ## 📁 Project Structure
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Flutter SDK installed
+- Weather API key (from OpenWeatherMap or similar)
+
+### Steps
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/climate-look.git
+cd climate-look
